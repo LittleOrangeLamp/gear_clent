@@ -1,1 +1,1 @@
-# gear_clent
+# gear_client
